@@ -1,0 +1,37 @@
+# PYTHON
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# VIRTUAL ENVIRONMENT
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS FILES
+Thumbs.db
+.DS_Store
+
+# AUDIO FILES
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.bat
+
+# BUILD
+build/
+dist/
+
+# LOGS
+*.log
+
+# CACHE
+.cache/
