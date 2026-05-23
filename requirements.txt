@@ -1,0 +1,4 @@
+pygame>=2.5.0
+mutagen>=1.47.0
+rich>=13.7.0
+windows-curses>=2.3.0; platform_system == "Windows"
