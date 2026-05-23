@@ -3,9 +3,9 @@
 Modern terminal-based MP3 player built with Python, curses and pygame.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue?style=for-the-badge)
 ![Terminal](https://img.shields.io/badge/UI-Terminal-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-apache-blue?style=for-the-badge)
 
 ---
 
